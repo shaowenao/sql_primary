@@ -1,0 +1,3 @@
+huangbo	yuwen:80,shuxue:89,yingyu:95
+xuzheng	yuwen:70,shuxue:65,yingyu:81
+wangbaoqiang	yuwen:75,shuxue:100,yingyu:76
